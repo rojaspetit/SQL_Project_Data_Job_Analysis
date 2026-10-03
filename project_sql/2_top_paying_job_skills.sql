@@ -40,11 +40,6 @@ ORDER BY
 ;
 
 /*
-    - SQL appears leads in 8/8 of the top jobs that mention skills (100%). The clearest core skill.
-    - Python appears in 7/8 jobs (87.5%). Almost as universal as SQL.
-    - Tableau appears in 6/8 jobs (75%). Very relevant in this sample.
-    - Othe skills as R, Snowflake, Pandas and Excel show varying degrees of demand in the highest-paying jobs.
-
 [
   {
     "job_id": 552322,

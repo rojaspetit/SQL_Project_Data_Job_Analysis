@@ -28,18 +28,6 @@ LIMIT 25
 ;
 
 /*
-Demanded Skills: 
-    - Big Data & Advanced Analytics: Tools such as PySpark, Pandas, NumPy, Jupyter, and DataRobot point to 
-    a growing role for large-scale data processing, statistical analysis, and predictive analytics.
-    - Data Engineering & Automation: Technologies like Airflow, Jenkins, GitLab, Kubernetes, and Databricks 
-    connect analytics with data pipelines, workflow automation, and production environments.
-    - Cloud & Modern Data Platforms: GCP, Databricks, Elasticsearch, and Couchbase reflect the increasing integration 
-    of analytics with cloud infrastructure and scalable data platforms.
-    - Software Development & Collaboration: GitLab, Bitbucket, Atlassian, Linux, and programming languages such as Go and Scala 
-    show that analytics roles can increasingly overlap with software development and engineering workflows.
-    - Database & Data Management: PostgreSQL, Elasticsearch, Couchbase, and related technologies highlight the importance 
-    of working with structured and unstructured data across different database environments.
-
 Average salary alone can be misleading, as skills appearing in only a few job postings 
 may rank highly due to small sample sizes. Salary should therefore be considered alongside 
 skill demand and frequency to identify more reliable market trends.
