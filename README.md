@@ -10,7 +10,7 @@ If you want to explore the SQL queries behind this analysis, [check them out her
 
 ## Background
 
-My goal is to understandwhich skills are most in demand, which are associated with higher salaries, and where these two areas overlap.
+My goal is to understand which skills are most in demand, which are associated with higher salaries, and where these two areas overlap.
 
 The data comes from a SQL course and contains information on job titles, salaries, locations, and required skills across Data Analyst job postings from 2023.
 
