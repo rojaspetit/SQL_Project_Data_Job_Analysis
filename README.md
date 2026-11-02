@@ -238,7 +238,7 @@ As I learn how data can be used to make better decisions, I wanted to apply that
 
 This is only an initial step, but it gives me a more informed direction for continuing to develop the skills needed to enter a competitive Data Analytics job market.
 
-## Tools I Used 
+## Tools and Technologies 
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
