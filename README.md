@@ -22,7 +22,7 @@ The data comes from a SQL course and contains information on job titles, salarie
 4. Which skills are associated with higher salaries?
 5. **What are the most optimal skills to learn?**
 
-## The Analysis
+## Analysis Approach
 
 ### 1. Top Paying Data Analyst Jobs
 To identify the highest-paying Data Analyst roles, I filtered job postings by salary and location, focusing on remote positions and jobs available in Mexico. This query highlights the top-paying opportunities in the field.
