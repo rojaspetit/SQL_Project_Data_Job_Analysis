@@ -22,18 +22,6 @@ The data comes from a SQL course and contains information on job titles, salarie
 4. Which skills are associated with higher salaries?
 5. **What are the most optimal skills to learn?**
 
-## Tools I Used 
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
-- **SQL:** Used to query the database and uncover insights from the job posting data.
-- **PostgreSQL:** Used to create and manage the database containing the job posting data.
-- **Visual Studio Code:** Used as my main environment for writing and running SQL queries.
-- **GitHub:** Used for version control and to share the SQL queries and findings from the analysis.
-
 ## The Analysis
 
 ### 1. Top Paying Data Analyst Jobs
@@ -249,6 +237,18 @@ This project represents one of my first steps into Data Analytics and gave me th
 As I learn how data can be used to make better decisions, I wanted to apply that same mindset to my own development: rather than choosing which skills to learn based only on assumptions or baises, I used job market data to understand where demand and salary intersect.
 
 This is only an initial step, but it gives me a more informed direction for continuing to develop the skills needed to enter a competitive Data Analytics job market.
+
+## Tools I Used 
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+- **SQL:** Used to query the database and uncover insights from the job posting data.
+- **PostgreSQL:** Used to create and manage the database containing the job posting data.
+- **Visual Studio Code:** Used as my main environment for writing and running SQL queries.
+- **GitHub:** Used for version control and to share the SQL queries and findings from the analysis.
 
 ## 👤 Author
 
